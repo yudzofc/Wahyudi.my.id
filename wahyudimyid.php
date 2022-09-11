@@ -454,11 +454,11 @@
 				</div>
 					</div>
 		<div id="light"></div>
-		<a href="https://s.id/WahyudiOfc" style="text-decoration: none;"><button class="tombol" id="tombol1"><p>Profile</p></button></a>
+		<a href="https://wahyudi-id.herokuapp.com" style="text-decoration: none;"><button class="tombol" id="tombol1"><p>Profile</p></button></a>
 		<a href="https://bit.ly/OSIS96JKT" style="text-decoration: none;"><button class="tombol" id="tombol2"><p>OSIS 96 Official </p></button></a>
 		<a href="https://fbdl.wahyup094.repl.co" style="text-decoration: none;"><button class="tombol" id="tombol3"><p>Fb Downloader</p></button></a>
 		<a href="https://2048.wahyup094.repl.co/" style="text-decoration: none;"><button class="tombol" id="tombol4"><p>2048 Game</p></button></a>
-		<a href="https://wa.me/6285693650294" style="text-decoration: none;"><button class="tombol" id="tombol5"><p>Need Programmer?</p></button></a>
+		<a href="https://link.bio.wahyup094.repl.co" style="text-decoration: none;"><button class="tombol" id="tombol5"><p>Link.bio</p></button></a>
 		<div id="tempatAst"></div>
 		<div id="tulisTujuan" style="color: rgb(200, 200, 200); font-family: arial;font-size: 18px;position: absolute;bottom: 55px;left: 30px;">I want to be a <b id="tujuan" style="color:deepskyblue;"></b>|</div>
 	</div>
